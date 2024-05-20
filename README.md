@@ -38,4 +38,4 @@ playwright install
 Ensure that your Google Sheet is shared with the service account email.
 Place the downloaded JSON key file in the same directory as the script.
 Replace "Client1.json" in the script with the actual name of your JSON key file.
-Run the script using Python:
+
