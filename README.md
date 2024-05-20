@@ -1,4 +1,4 @@
-
+file:///C:/Users/aneskovic/Downloads/Detailed_Google_Sheets_API_Script_Guide.pdf
 1. Introduction
 This document provides detailed instructions on setting up the Google Sheets API and using a Python script to update a Google Sheet with data extracted from a website using Playwright.
 
